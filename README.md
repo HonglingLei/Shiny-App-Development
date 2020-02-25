@@ -9,3 +9,4 @@ In this project, I created a Shiny App that allows users to visualize - in an in
 Shiny App Link
 --------
 Click [here](https://honglinglei.shinyapps.io/workout02/) to try this Shiny App.
+Click [here](https://github.com/HonglingLei/Shiny-App-Development/blob/master/app.R) to read my code.
